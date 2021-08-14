@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-11-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/annasabbagh/goit-js-hw-11-timer/",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annasabbagh/goit-js-hw-11-timer.git"
+  },
+  "author": "Anna Sabbaghzadeh <annamay2491@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annasabbagh/goit-js-hw-11-timer/issues"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
