@@ -19,9 +19,8 @@
     "url": "https://github.com/annasabbagh/goit-js-hw-11-timer/issues"
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "parcel-bundler": "^1.12.5"
   },
-  "dependencies": {
-    "gh-pages": "^3.2.3"
-  }
+  "dependencies": {}
 }
